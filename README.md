@@ -1,8 +1,8 @@
 # Project Documentation Management Using Git
 
 ## Overview
-This project demonstrates how Git can manage project documentation
-and maintain a history of changes.
+This project demonstrates how Git manages project documentation
+and tracks changes using version control.
 
 ## Objectives
 - Create and maintain Markdown documentation.
@@ -15,7 +15,7 @@ and maintain a history of changes.
 - Git
 - GitHub
 - Markdown
-- Linux terminal or Git Bash
+- Git Bash
 
 ## Project Structure
 - docs/guides/ - Step-by-step guides
@@ -29,9 +29,9 @@ and maintain a history of changes.
 4. Save changes using git commit.
 5. Upload commits using git push.
 
-## Result
-Documentation is maintained in a version-controlled repository.
-
 ## Maintenance
 Review documentation regularly and update it whenever project
 commands, architecture, or deployment procedures change.
+
+## Result
+Documentation is maintained in a version-controlled repository.

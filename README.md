@@ -32,3 +32,6 @@ and maintain a history of changes.
 ## Result
 Documentation is maintained in a version-controlled repository.
 
+## Maintenance
+Review documentation regularly and update it whenever project
+commands, architecture, or deployment procedures change.
